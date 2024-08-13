@@ -273,7 +273,7 @@ section.second{
             height: 48px;
             background-color: rgba(184, 142, 47, 1);
             border: none;
-            color: white;
+            color: black;
             font-weight: 600;
         }
     }
@@ -283,7 +283,7 @@ section.second{
         width: 1196px;
         height: 582px;
         display: flex;
-        gap:40px;
+        gap:10px;
     }
     
   
